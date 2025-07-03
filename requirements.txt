@@ -1,3 +1,0 @@
-pip install BeautifulSoup
-pip install pandas
-pip install requests 
